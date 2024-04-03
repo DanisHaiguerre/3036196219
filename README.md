@@ -44,6 +44,8 @@ python acc.py --prediction_path /userhome/cs2/jnlyu/v2k8clg4
 | prompt_type = 2  N =8   | 0.7975  | 0.5311 |  0.61102  |
 | prompt_type = 1  N =5  | 0.65824  | 0.4722 |  0.528012  |
 | prompt_type = 2  N =5   | 0.7861  | 0.5191 |  0.5992  |
+
+
 screenshot of prompt_type = 2, N =8, ARC-Easy
 ![image](https://github.com/DanisHaiguerre/3036196219/blob/main/v2k8easy.png)
 screenshot of prompt_type = 2, N =8, ARC-Challenge
