@@ -44,48 +44,10 @@ python acc.py --prediction_path /userhome/cs2/jnlyu/v2k8clg4
 | prompt_type = 2  N =8   | 0.7975  | 0.5311 |  0.61102  |
 | prompt_type = 1  N =5  | 0.65824  | 0.4722 |  0.528012  |
 | prompt_type = 2  N =5   | 0.7861  | 0.5191 |  0.5992  |
-
+screenshot of prompt_type = 2, N =8, ARC-Easy
 ![image](https://github.com/DanisHaiguerre/3036196219/blob/main/v2k8easy.png)
+screenshot of prompt_type = 2, N =8, ARC-Challenge
 ![image](https://github.com/DanisHaiguerre/3036196219/blob/main/v2k8clg.png)
 
-Details:
-
-
-
-
-Your report should comprise an introduction, methodology, and experiments section. Detail how you improved the model, considering options like:
-
-+ Hyper-parameter Tuning: Explore critical hyper-parameters like the number of examples in the prompt, and the selection of top k similar examples based on embedding similarity.
-+ Pre-trained Models for Embedding: Experiment with advanced neural networks or customize your own for embedding demonstrations and questions.
-+ Formats of In-Context Demonstrations: Experiment with different demonstration formats and augment questions with relevant external knowledge, inspired by [this paper](https://arxiv.org/abs/2005.00700).
-+ Expanding Context Length: Address limitations on context length by including more demonstrations or modifying embeddings for longer sequences, drawing on [this paper](https://arxiv.org/abs/2306.15595).
-
-In the method section, describe the approaches you used to improve the baseline model performance. In the experiment section, analyze the dataset statistics, qualitative evaluations of the model's performance, and case analysis. 
-
-
-
-
-2. Codes
-
-    2.1 All the codes.
-    
-    2.2 README.txt that describes which python file has been added/modified.
-
-3. Model Predictions on the Test Set (Submit in a zip file)
-
-
-If your student id is 30300xxxxx, then the file should be organized as follows:
-
-        30300xxxxx.zip
-        |-report.pdf
-        |-src
-        |   |-README.md
-        |   |-your code
-        |-model_predictions.zip
-
-
-- 10% for late assignments submitted within 1 day late. 
-- 20% for late assignments submitted within 2 days late.
-- 50% for late assignments submitted within 7 days late.
-- 100% for late assignments submitted after 7 days late.
+## 4. Modified files details 
 
