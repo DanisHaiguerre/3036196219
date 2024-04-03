@@ -49,5 +49,5 @@ screenshot of prompt_type = 2, N =8, ARC-Easy
 screenshot of prompt_type = 2, N =8, ARC-Challenge
 ![image](https://github.com/DanisHaiguerre/3036196219/blob/main/v2k8clg.png)
 
-## 4. Modified files details 
+
 
